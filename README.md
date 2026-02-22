@@ -20,12 +20,12 @@ Un formulario de contacto elegante y moderno con animaciones fluidas y diseño g
 
 ## 📋 Campos del Formulario
 
-- **Nombre**: Campo de texto requerido
-- **Apellido**: Campo de texto requerido
-- **Email**: Validación de formato email
-- **Mensaje**: Área de texto para mensaje detallado
+- Nombre: Campo de texto requerido
+- Apellido: Campo de texto requerido
+- Email: Validación de formato email
+- Mensaje: Área de texto para mensaje detallado
 
-## 🛠️ Tecnologías
+ 🛠️ Tecnologías
 
 - HTML5
 - CSS3 (Animaciones, Grid, Flexbox, Gradientes)
