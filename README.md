@@ -3,7 +3,7 @@ curly-enigma
 
 Un formulario de contacto elegante y moderno con animaciones fluidas y diseño glassmorphism.
 
-## ✨ Características
+✨ Características
 
 - 🎨 Diseño moderno con efectos glassmorphism
 - 📱 Totalmente responsive (móvil, tablet, desktop)
@@ -12,7 +12,7 @@ Un formulario de contacto elegante y moderno con animaciones fluidas y diseño g
 - ♿ Accesible y compatible con lectores de pantalla
 - 🌈 Gradientes dinámicos y efectos visuales
 
-## 🚀 Inicio Rápido
+🚀 Inicio Rápido
 
 1. Clona o descarga el archivo HTML
 2. Abre `index.html` en tu navegador
