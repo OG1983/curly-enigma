@@ -90,7 +90,7 @@ form.addEventListener('submit', async function(e) {
 
 Libre para uso personal y comercial.
 
-## 🤝 Contribuciones
+🤝 Contribuciones
 
 Las contribuciones son bienvenidas. Por favor:
 1. Fork el proyecto
