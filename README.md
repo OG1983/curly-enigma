@@ -33,13 +33,13 @@ Un formulario de contacto elegante y moderno con animaciones fluidas y diseño g
 
 ## 🎨 Personalización
 
-### Colores
+Colores
 Modifica los gradientes en las variables CSS:
 ```css
 background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
 ```
 
-### Animaciones
+Animaciones
 Ajusta la duración de las animaciones:
 ```css
 animation: fadeInUp 0.8s ease-out;
