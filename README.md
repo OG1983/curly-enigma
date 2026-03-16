@@ -18,7 +18,7 @@ Un formulario de contacto elegante y moderno con animaciones fluidas y diseño g
 2. Abre `index.html` en tu navegador
 3. ¡Listo para usar!
 
-## 📋 Campos del Formulario
+📋 Campos del Formulario
 
 - Nombre: Campo de texto requerido
 - Apellido: Campo de texto requerido
