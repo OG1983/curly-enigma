@@ -45,7 +45,7 @@ Ajusta la duración de las animaciones:
 animation: fadeInUp 0.8s ease-out;
 ```
 
-## 📝 Integración con Backend
+📝 Integración con Backend
 
 Actualmente el formulario simula el envío. Para conectarlo a tu backend:
 ```javascript
