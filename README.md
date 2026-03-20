@@ -86,7 +86,7 @@ form.addEventListener('submit', async function(e) {
 - ✅ Edge (últimas 2 versiones)
 - ✅ Móviles iOS y Android
 
-## 📄 Licencia
+📄 Licencia
 
 Libre para uso personal y comercial.
 
