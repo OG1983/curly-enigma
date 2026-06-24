@@ -69,7 +69,7 @@ form.addEventListener('submit', async function(e) {
 });
 ```
 
-## 🔧 Próximas Mejoras
+🔧 Próximas Mejoras
 
 - [ ] Integración con API de envío de emails
 - [ ] Validación avanzada de campos
