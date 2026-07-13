@@ -99,7 +99,7 @@ Las contribuciones son bienvenidas. Por favor:
 4. Push a la rama
 5. Abre un Pull Request
 
-## 📧 Contacto
+📧 Contacto
 
 Para preguntas o sugerencias, abre un issue en el repositorio.
 
