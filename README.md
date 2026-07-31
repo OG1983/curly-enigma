@@ -31,7 +31,7 @@ Un formulario de contacto elegante y moderno con animaciones fluidas y diseño g
 - CSS3 (Animaciones, Grid, Flexbox, Gradientes)
 - JavaScript Vanilla (Sin dependencias)
 
-## 🎨 Personalización
+🎨 Personalización
 
 Colores
 Modifica los gradientes en las variables CSS:
