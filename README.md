@@ -78,7 +78,7 @@ form.addEventListener('submit', async function(e) {
 - [ ] Captcha anti-spam
 - [ ] Guardar borradores automáticamente
 
-## 📱 Compatibilidad
+📱 Compatibilidad
 
 - ✅ Chrome (últimas 2 versiones)
 - ✅ Firefox (últimas 2 versiones)
