@@ -1,5 +1,5 @@
 curly-enigma
-Formulario de Contacto Moderno
+Formulario de Contacto moderno
 
 Un formulario de contacto elegante y moderno con animaciones fluidas y diseño glassmorphism.
 
